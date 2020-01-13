@@ -11,7 +11,7 @@
           `-.      
 ```
 # PDBlaster
-PDBlaster is designed to extract PDB file paths from large sample sets of executable files. The intention of the tool is to simplify the process of extraction, basic repeat entry analysis, and username discovery of/from the PDB file paths of large sample sets of maliscious executables. This allows for quick and easy creation of PDB path detail datasets. More detail can be found in the Security Risk Advisors [PDBlaster Blog Post](https://securityriskadvisors.com/blog/pdblaster-making-bread-from-attacker-breadcrumbs/).
+PDBlaster is designed to extract PDB file paths from large sample sets of executable files. The intention of the tool is to simplify the process of extraction, basic repeat entry analysis, and username discovery of/from the PDB file paths of large sample sets of malicious executables. This allows for quick and easy creation of PDB path detail datasets. More detail can be found in the Security Risk Advisors [PDBlaster Blog Post](https://securityriskadvisors.com/blog/pdblaster-making-bread-from-attacker-breadcrumbs/).
 
 # Acknowledgements
 * This tool was inspired by this [Fireye Blog Post](https://www.fireeye.com/blog/threat-research/2019/08/definitive-dossier-of-devilish-debug-details-part-one-pdb-paths-malware.html), written by Steve Miller
