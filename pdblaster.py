@@ -3,7 +3,6 @@
 '''
 Author: Nick Ascoli
 Credits: Kevin Foster (pefile logic), Steve Miller (inspiration)
-License: MIT
 '''
 
 import pefile
